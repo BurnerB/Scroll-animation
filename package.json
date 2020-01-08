@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "cool-scroll-aniation",
   "main": "index.js",
-  "homepage": "git@github.com:BurnerB/Scroll-animation.git",
+  "homepage": "https://burnerb.github.io/Scroll-animation",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
