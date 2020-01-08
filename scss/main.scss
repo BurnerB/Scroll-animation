@@ -28,7 +28,7 @@
 
     @for $i from 1 through 10 {
       &:nth-child(#{$i}) {
-        background-image: url('../img/photo-#{$i}.jpg');
+        background-image: url('../img/photo#{$i}.jpg');
       }
     }
 }

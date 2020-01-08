@@ -22,25 +22,25 @@
   .image:nth-child(2n) {
     justify-self: start; }
   .image:nth-child(1) {
-    background-image: url("../img/photo-1.jpg"); }
+    background-image: url("../img/photo1.jpg"); }
   .image:nth-child(2) {
-    background-image: url("../img/photo-2.jpg"); }
+    background-image: url("../img/photo2.jpg"); }
   .image:nth-child(3) {
-    background-image: url("../img/photo-3.jpg"); }
+    background-image: url("../img/photo3.jpg"); }
   .image:nth-child(4) {
-    background-image: url("../img/photo-4.jpg"); }
+    background-image: url("../img/photo4.jpg"); }
   .image:nth-child(5) {
-    background-image: url("../img/photo-5.jpg"); }
+    background-image: url("../img/photo5.jpg"); }
   .image:nth-child(6) {
-    background-image: url("../img/photo-6.jpg"); }
+    background-image: url("../img/photo6.jpg"); }
   .image:nth-child(7) {
-    background-image: url("../img/photo-7.jpg"); }
+    background-image: url("../img/photo7.jpg"); }
   .image:nth-child(8) {
-    background-image: url("../img/photo-8.jpg"); }
+    background-image: url("../img/photo8.jpg"); }
   .image:nth-child(9) {
-    background-image: url("../img/photo-9.jpg"); }
+    background-image: url("../img/photo9.jpg"); }
   .image:nth-child(10) {
-    background-image: url("../img/photo-10.jpg"); }
+    background-image: url("../img/photo10.jpg"); }
 
 @media screen and (max-width: 760px) {
   .container {
