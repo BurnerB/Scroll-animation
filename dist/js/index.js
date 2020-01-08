@@ -51,9 +51,6 @@ if (iOSChromeDetected) {
 }
 
 
-
-// DEMO
-
 (function() {
 
   // Easing function used for `translateX` animation
