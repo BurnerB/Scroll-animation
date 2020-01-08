@@ -1,0 +1,17 @@
+{
+  "name": "scroll_animation",
+  "version": "1.0.0",
+  "description": "cool-scroll-aniation",
+  "main": "index.js",
+  "homepage": "git@github.com:BurnerB/UI-Practice.git",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "BurnerB",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0",
+    "node-sass": "^4.13.0"
+  }
+}
